@@ -1,5 +1,5 @@
-// Challenge 2:
-// Replace the arguments below according to your preference.
+// 
+// If you want to experiement, feel free to eplace the arguments below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
 favouriteMovieGenre("space")
